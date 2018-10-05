@@ -1,0 +1,23 @@
+Atenção,
+O Bot ainda esta em fase de teste então alguns comandos podem nao funcionar como deveriam
+caso isso aconteça fale com o <@326363082798399488> para ele resolver.
+
+Comandos:
+
+`!daily` - Comando para reinvidocar sua recompença diaria
+`!balance` - veja o seu saldo *você também pode usar !balance <menção> para ver o saldo de outras pessoas*
+`!picorik` - Veja o tamanho do seu picorik *você também pode usar !picorik <menção> para ver o picorik de outras pessoas*
+`!ping` - Comando basico de teste, pra saber se o bot esta online e o tempo de resposta dele
+`!remind` -  Cria um lembrete **Como usar: !remind <tempo s=segundos, min=minutos, d=dias> <motivo do lembrete>**
+Ex.: ***!remind 1d dar daily*** 
+`!clima` - Informa o clima de uma cidade especifica **Como usar: !clima <cidade>**
+Ex.: ***!clima rio de janeiro***
+`!avatar` - Cria uma img maior do avatar que esteja usando *você também pode usar !avatar <menção> para ver o avatar de outras pessoas*
+`!ndm` - Descubra seu nome de MITO!
+`!punch` - De um belo soco em quem você quiser **Como usar: !punch <menção>**
+`!hug` - De Um Abraço em quem você quiser **Como usar: !hug <menção>**
+`!kiss` - Destribua beijos por ai **Como usar: !kiss <menção>**
+`!lick` - Passe a lambida em alguem **Como Usar: !lick <menção>**
+`!pat` - Faça carinho nos seus amiguinhos **Como usar : !pat <menção>** 
+`!dance` - Faça uma Dançinha
+`!8ball` - Faça sua pergunta e ela sera respondida ou nao

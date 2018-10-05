@@ -1,0 +1,21 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "moment": "^2.22.2",
+    "ms": "^2.1.1",
+    "node-superfetch": "^0.1.9",
+    "profanities": "^2.6.0",
+    "superagent": "^4.0.0-beta.5",
+    "weather-js": "^2.0.0"
+  }
+}
